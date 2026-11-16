@@ -1,0 +1,6 @@
+{
+  "name": "OneDrawer — Fast Android App Launcher & Package Inspector",
+  "description": "A bottom-first Android app launcher and deep package manager with instant fuzzy/T9 search, A–Z fast-index scrubbing, installer source intelligence, and native Kotlin architecture blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
